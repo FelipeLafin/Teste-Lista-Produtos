@@ -1,0 +1,53 @@
+[
+    
+    {
+        "Nome": "Maçã",
+        "Preço": "1.50", 
+        "Quantidade": "4"
+    },
+    {
+        "Nome": "Banana", 
+        "Preço": "0.80", 
+        "Quantidade": "10"
+    },
+    {
+        "Nome": "Laranja",
+        "Preço": "1.20",
+        "Quantidade": "6"
+    },
+    {
+        "Nome": "Pêra", 
+        "Preço": "2.00", 
+        "Quantidade": "3"
+    },
+    {
+        "Nome": "Manga", 
+        "Preço": "3.50", 
+        "Quantidade": "2"
+    },
+    {
+        "Nome": "Abacaxi", 
+        "Preço": "5.00", 
+        "Quantidade": "1"
+    },
+    {
+        "Nome": "Morango", 
+        "Preço": "6.00", 
+        "Quantidade": "12"
+    },
+    {
+        "Nome": "Melancia", 
+        "Preço": "7.50", 
+        "Quantidade": "1"
+    },
+    {
+        "Nome": "Uva", 
+        "Preço": "4.00", 
+        "Quantidade": "8"
+    },
+    {
+        "Nome": "Kiwi", 
+        "Preço": "3.00", 
+        "Quantidade": "5"}
+
+]
